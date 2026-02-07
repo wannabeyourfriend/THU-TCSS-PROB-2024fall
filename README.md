@@ -1,19 +1,42 @@
-# THU-TCSS-Prob-2024fall
+# THU-TCSS-PROB-2024fall
 
-初等概率论，感受超好的一个课，推荐wljj！
+Elementary Probability Theory - An excellent course, highly recommended by students!
 
-任务量：hw*13
+## Course Information
 
-### 清华大学学生纪律处分管理规定实施细则
+- **Course**: Elementary Probability Theory (初等概率论)
+- **Institution**: Tsinghua University
+- **Semester**: Fall 2024
 
-#### 第六章　学术不端、违反学习纪律的行为与处分
+## Workload
 
-第二十一条 有下列违反课程学习纪律情形之一的，给予警告以上、留校察看以下处分：
+- 13 homework assignments (hw*13)
 
-（一）课程作业抄袭严重的；
+## Academic Integrity Policy
 
-（二）实验报告抄袭严重或者篡改实验数据的；
+### Tsinghua University Student Discipline Management Regulations
 
-（三）期中、期末课程论文抄袭严重的；
+#### Chapter VI: Academic Misconduct and Violation of Study Discipline
 
-（四）在课程学习过程中严重弄虚作假的其他情形。
+**Article 21** Students who commit any of the following violations of course study discipline shall receive a punishment ranging from warning to probation:
+
+1. Serious plagiarism in course assignments
+2. Serious plagiarism in laboratory reports or falsification of experimental data
+3. Serious plagiarism in mid-term or final course papers
+4. Other serious forms of deception during the course learning process
+
+## Repository Contents
+
+This repository contains course materials and homework assignments for Elementary Probability Theory.
+
+## Usage
+
+Please review the homework assignments in the `homework/` directory for reference and learning purposes.
+
+## Disclaimer
+
+This repository is intended for educational purposes only. Please adhere to academic integrity guidelines and avoid plagiarism in your coursework.
+
+## License
+
+This repository is for educational use. Please respect the original course materials and guidelines.
